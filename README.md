@@ -109,7 +109,14 @@ Orders.csv file
 ![image](https://github.com/user-attachments/assets/5b33830d-ed98-4381-8569-002be09f2ed4)
 
  
-## Results and insights
+## 10. Results
+![image](https://github.com/user-attachments/assets/9912af55-0b8a-4460-97f9-6c75283ad4cf)
+![image](https://github.com/user-attachments/assets/db7f6c9e-d091-47a3-a0e2-1fd2932b3a3b) 
+![image](https://github.com/user-attachments/assets/f1019230-a1ec-4066-b26b-64435aaea0af)
+![image](https://github.com/user-attachments/assets/c01aa001-9a98-4e1e-a3d4-d065ddd023f8)
+![image](https://github.com/user-attachments/assets/d6a4c7df-fa0b-4ed0-812c-02e6b91b4a72)
+
+## 11. Insights
 To answer the Superstore management questions related to order performance, I analysed the order number from 2014 to 2017. In this analysis, I considered the order ID information as the fact, the information I’m interested in, and to provide context to the fact (dimensions), I defined the following variables as dimension: ship mode, customer ID, quantity, and order date. 
 
 The analysis of the order number shows an increase. By analysing this variable per month, I found that in January, a total of 381 orders were made, which slightly decreased in February (300 orders). In March, the orders increased to 696, which maintained more or less the same amount, around 600 to 700 until August. Due to the marketing campaign, the order number increased almost 2x to 1383 in September. Then, after the decrease in October, the order number increased again, this time higher than the previous months, and stayed the same until December. This result suggests that despite the seasonal increase in sales, the order number generally increases across the year.
